@@ -1,3 +1,1 @@
-I've completed the Firgure 9 reproduction (the result is in 'myfilename.png'). You can replicate this by running `python jellyfish.py`.
 
-My topology setup for mininet is also here (in "build_topology.py"), though I haven't figured out how to get muptiple iperf's running simultaneously yet.
