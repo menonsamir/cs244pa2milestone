@@ -162,7 +162,7 @@ for i in range(n_servers-1):
     if z % 50 == 0:
         print z
 do_all(servers[-1], servers[0])
-'''
+
 #counts = pickle.load(open("counts.pkl","r"))
 print "done running sim, making viz"
 plt.figure()
@@ -190,4 +190,4 @@ plt.ylabel("# Distinct Paths Link is on")
 plt.title("Replication")
 plt.legend()
 plt.savefig('myfilename.png')
-'''
+
